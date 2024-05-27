@@ -1,0 +1,18 @@
+.chat-message {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background: #f1f1f1;
+    max-width: 70%;
+    word-wrap: break-word;
+  }
+  
+  .chat-message a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .chat-message a:hover {
+    text-decoration: underline;
+  }
+  
